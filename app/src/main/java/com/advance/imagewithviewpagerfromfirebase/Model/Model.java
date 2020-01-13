@@ -2,7 +2,7 @@ package com.advance.imagewithviewpagerfromfirebase.Model;
 
 public class Model {
 
-    private String img;
+    private String img; // this name will be as like firebase name
 
     public Model() {
     }
