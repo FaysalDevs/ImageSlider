@@ -60,7 +60,7 @@ public class MyAdapter extends PagerAdapter {
         //image
         Picasso.get().load(imgList.get(position).getImg()).into(bike_Img);
 
-        //text
+        //text//
        /* bike_Txt.setText(imgList.get(position).getTitle());*/
 
         container.addView(view);
